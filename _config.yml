@@ -3,10 +3,10 @@
 #
 # url: http://localhost:4000
 # baseurl: ""
-url: http://ttskch.github.io
-baseurl: /jekyll-ttskch-theme
-title: Your name
-description: Some descriptions of yourself.
+url: https://abcwzr.github.io
+baseurl: /jekyll-wzr-theme
+title: Wang zhengrong
+description: I'm from CQ.
 avatar: /assets/img/ogp.png
 # favicon: /favicon.ico
 favicon: /assets/img/ogp.png
